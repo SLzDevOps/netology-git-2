@@ -4,7 +4,8 @@
 ## Ссылка на ДЗ - https://github.com/netology-code/sysadm-homeworks/blob/devsys10/02-git-02-base/README.md
 
   
-## Ссылка на git из ДЗ (с которым работал) - https://github.com/SLzDevOps/devops-netology
+## Ссылка на github - https://github.com/SLzDevOps/netology-git-2
+## Ссылка на gitlab - https://gitlab.com/avfomichev/devops-netology#
 
 
 Задание показалось странным и простым - почти все кооманды даны, просто добавить репозиторий гитлаб и пройти путь по ветвлению.. Так оно и получилось.
