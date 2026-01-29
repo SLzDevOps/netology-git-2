@@ -15,39 +15,50 @@
 
 Согласно ДЗ создан репозиторий на GitLab, проведен пул репозитория с github и пуш на gitlab
     
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_612.png).
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_613.png).
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_614.png).
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_615.png).
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_617.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_612.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_613.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_614.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_615.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_617.png).
 
   
 ## 2.
 
 Созданы лековесный и аннтированные теги. указанна дата, сокращенный хеш коммита(кликабельный), есть возможность перевести в релиз или удалить.
-  
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_618.png).
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_621.png).
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_619.png).
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_620.png).
 
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_618.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_621.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_619.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_620.png).
+
+  
 ## 3.
-  
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_619.png).
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_620.png).
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_621.png).
 
+Так же выполнено соглано указаниям и командами приложенным к заданию. Видно как отделяется ветка fix. 
+  
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_622.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_623.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_625.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_626.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_628.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_629.png).
+
+  
 ## 4.
-  
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_622.png).
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_623.png).
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_624.png).
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_625.png).
 
+Тут пришлось поцчиться подключать гит в более новый версии, так как rider уже был установлен, пробовал на нём, попутно установив гит на windows. немножко ошибся с названием commit - coomot))
+    
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_635.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_634.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_636.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_638.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_639.png).
+![alt text](https://github.com/SLzDevOps/netology-git-2/blob/main/Screenshot_641.png).
+
+
+Все скриншоты из задания залитые на github
+https://github.com/SLzDevOps/netology-git-2
   
-  
-Начало, клонирование репозитория и конфигурация имя/почта
-  
-![alt text](https://github.com/SLzDevOps/netology-git-1/blob/main/screenshots/Screenshot_597.png).
+
   
 
