@@ -4,7 +4,7 @@
 ## Ссылка на ДЗ - https://github.com/netology-code/sysadm-homeworks/blob/devsys10/02-git-02-base/README.md
 
   
-## Ссылка на github - https://github.com/SLzDevOps/netology-git-2
+## Ссылка на github - https://github.com/SLzDevOps/devops-netology
 ## Ссылка на gitlab - https://gitlab.com/avfomichev/devops-netology#
 
 
